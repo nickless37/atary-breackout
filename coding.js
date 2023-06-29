@@ -2,7 +2,7 @@ let Area = document.getElementById('gamearea')
 let ctx = Area.getContext('2d')
 let countText = document.getElementById('count_text')
 let count = 0
-
+//Hello p.s Herm1t
 const platformSpeed = 3
 const brickItems = 3
 
